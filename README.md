@@ -49,3 +49,7 @@
   <img align="center" alt="Leonardo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Leonardo-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
 </div>
+
+
+
+![Snake animation](https://raw.githubusercontent.com/leosilper/leosilper/output/dist/github-contribution-grid-snake-dark.svg)
