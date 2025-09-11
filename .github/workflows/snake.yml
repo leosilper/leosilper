@@ -27,4 +27,4 @@ jobs:
           message: "🎉 Snake animation atualizada"
           add: "dist/*.svg"
           default_author: github_actions
-          push: origin output  # <- ISSO envia para a branch 'output'
+          push: output  # <- ISSO envia para a branch 'output'
