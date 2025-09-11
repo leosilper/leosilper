@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Leonardo Silva  
+# 👨🏽‍💻 Leonardo Silva  
 **`Software Developer | Tech Enthusiast`**  
 
 🎓 Estudante de Tecnologia da Informação, sempre em busca de novos desafios e aprendizados.  
@@ -7,7 +7,7 @@
 
 📌 No meu GitHub você vai encontrar projetos práticos, experimentos e estudos que refletem minha evolução no mundo da programação.  
 
-🌱 Minha meta é crescer como profissional e colaborar com a comunidade, compartilhando conhecimento e boas práticas.  
+🌱 Minha meta aqui é me contruir a cada dia mais como desenvolvedor profissional e poder colaborar através de ideias e projetos, compartilhando conhecimento e boas práticas.  
 
 
 
