@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Leonardo Silva  
 **`Software Developer | Tech Enthusiast`**  
 
-🎓 Estudante de Tecnologia da Informação, sempre em busca de novos desafios e aprendizados.  
+🎓 Estudante de Tecnologia da Informação, sempre em busca de novos desafios e aprendizados..  
 
 ⚡ Tenho interesse em construir soluções inteligentes que unem criatividade e lógica, explorando linguagens como Java, C#, Python e ferramentas modernas de desenvolvimento.  
 
