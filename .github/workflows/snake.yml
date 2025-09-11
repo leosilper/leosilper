@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # Executa todos os dias à meia-noite
   workflow_dispatch:       # Permite rodar manualmente
 
+permissions:
+  contents: write          # dá permissão de escrita no repositório
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -27,4 +30,4 @@ jobs:
           message: "🎉 Snake animation atualizada"
           add: "dist/*.svg"
           default_author: github_actions
-          push: output  # <- ISSO envia para a branch 'output'
+          branch: output
