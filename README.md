@@ -1,7 +1,13 @@
 # 👨🏽‍💻 Leonardo Silva  
 **`Software Developer | Tech Enthusiast`**  
 
-🎓 Estudante de Tecnologia da Informação, sempre em busca de novos desafios e aprendizados..  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7D53DEcenter=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola+,+seja+muito+bem+vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
+🎓 Estudante de Análise e desenvolvimento de sistemas na Faculdade FIAP, sempre em busca de novos desafios e aprendizados..  
 
 ⚡ Tenho interesse em construir soluções inteligentes que unem criatividade e lógica, explorando linguagens como Java, C#, Python e ferramentas modernas de desenvolvimento.  
 
