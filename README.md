@@ -69,3 +69,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leosilper/leosilper/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+
+![Snake animation](https://raw.githubusercontent.com/leosilper/leosilper/output/dist/github-contribution-grid-snake-dark.svg)
+
