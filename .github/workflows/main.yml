@@ -1,0 +1,30 @@
+name: Generate Snake Animation 🐍
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Executa todos os dias à meia-noite
+  workflow_dispatch:       # Permite rodar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Geração da Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: leosilper
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit dos arquivos gerados
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "🎉 Snake animation atualizada"
+          add: "dist/*.svg"
+          default_author: github_actions
+          push: origin output  # <- ISSO envia para a branch 'output'
