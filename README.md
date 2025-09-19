@@ -1,11 +1,16 @@
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7D53DE&center=true&vCenter=true&width=600&lines=✦+Olá,+seja+muito+bem-vindo!+✦;💻+Desenvolvedor+BackEnd;🚀+Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
+
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
+
+</div>
+
+
+
 # 👨🏽‍💻 Leonardo Silva  
 **`Software Developer | Tech Enthusiast`**  
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7D53DEcenter=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola+,+seja+muito+bem+vindo!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
 
 🎓 Estudante de Análise e desenvolvimento de sistemas na Faculdade FIAP, sempre em busca de novos desafios e aprendizados..  
 
