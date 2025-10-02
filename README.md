@@ -45,8 +45,8 @@
 
 ---
   <a href="https://github.com/leosilper">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leosilper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leosilper&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leosilper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leosilper&layout=compact&langs_count=16&theme=tokyonight"/>
 </div><div>
 
 
@@ -66,7 +66,7 @@
 ---
 
 <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=leosilper&bg_color=121212&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=false" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=leosilper&bg_color=121212&color=7D53DE&&line=58A6FF&point=58A6FF&area=true&hide_border=false" 
     height="300" 
     alt="Activity Graph" 
 />
