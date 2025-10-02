@@ -63,4 +63,11 @@
   <img align="center" alt="Leonardo-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
 </div>
 
+---
 
+<img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=leosilper&bg_color=000000&color=4682B4&line=4682B4&point=4682B4&area=true&hide_border=false" 
+    height="300" 
+    alt="Activity Graph" 
+/>
+</div>
