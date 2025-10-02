@@ -66,8 +66,8 @@
 ---
 
 <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=leosilper&bg_color=000000&color=4682B4&line=4682B4&point=4682B4&area=true&hide_border=false" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=leosilper&bg_color=121212&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=false" 
     height="300" 
     alt="Activity Graph" 
 />
-</div>
+
