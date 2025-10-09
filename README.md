@@ -14,7 +14,7 @@
 
 🎓 Estudante de Análise e desenvolvimento de sistemas na Faculdade FIAP, sempre em busca de novos desafios e aprendizados..  
 
-⚡ Tenho interesse em construir soluções inteligentes que unem criatividade e lógica, explorando linguagens como Java, C#, Python e ferramentas modernas de desenvolvimento.  
+⚡ Tenho interesse em construir soluções inteligentes que unem criatividade e lógica, explorando linguagens como Java, C#, Python e ferramentas modernas de desenvolvimento como, Intelij, VsCode, VisualStudio2022, Rider.  
 
 📌 No meu GitHub você vai encontrar projetos práticos, experimentos e estudos que refletem minha evolução no mundo da programação.  
 
@@ -70,4 +70,17 @@
     height="300" 
     alt="Activity Graph" 
 />
+
+
+
+###
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app?username=leosilper&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+
+
+
 
