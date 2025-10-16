@@ -80,7 +80,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=leosilper&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7D53DE&height=120&section=footer"/>
 
 
 
